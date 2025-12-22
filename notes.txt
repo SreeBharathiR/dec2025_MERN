@@ -19,3 +19,13 @@ rowspan
 colspan
 
 self closing / void element - img, br
+
+div - container element
+
+Semantic elements:
+
+header,nav,footer,main,article,aside,details,summary
+
+Entities & symbols - & start , ; end
+
+emojis - wid+.(dot)
