@@ -29,3 +29,8 @@ header,nav,footer,main,article,aside,details,summary
 Entities & symbols - & start , ; end
 
 emojis - wid+.(dot)
+
+
+Form
+
+input
