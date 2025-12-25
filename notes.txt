@@ -1,0 +1,55 @@
+inlines elements- mark,bold,strong,i
+block level elements - p,heading elements,pre,div
+
+comment line purpose - developer purpose
+
+List  - ordered list - 1,A,a,I,i - ol,li - type attribute
+        Unordered list - bullet points - ul,li - styling (list-style-type property:value)
+
+Open tag, close tag, content, element, attribute
+
+Table - table
+table head - thead
+table body - tbody
+table footer - tfoot
+table row - tr
+table data - td
+border
+rowspan
+colspan
+
+self closing / void element - img, br
+
+div - container element - block level container
+
+Semantic elements:
+
+header,nav,footer,main,article,aside,details,summary
+
+Entities & symbols - & start , ; end
+
+emojis - wid+.(dot)
+
+
+Form
+
+input
+
+inline element - span - container (inline container)
+
+CSS - (cascade style sheet)
+
+Types: 
+inline style,
+internal style,
+external style
+
+Selectors:
+
+Universal Selectors
+Simple Selectors - tag, class,id
+Combinator Selectors
+Pseudo Selectors
+Attribute Selectors
+
+
