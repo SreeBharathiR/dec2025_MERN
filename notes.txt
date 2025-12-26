@@ -1,0 +1,39 @@
+Website 
+
+
+types
+static dynamic websites
+
+components - frontend side , backend side
+
+How websites working
+
+browser - url - enter - browser send req to DNS - DNS response with IP address - IP address send req to the main server - main server provides the response with required files - browser get files - load html, css,js 
+
+
+https://www.geekbase.in/ - url
+
+tools - vs code
+
+Building Website - structure, style , function/ interaction 
+                     html   , css  , js
+
+
+HTML - HyperText markup language
+
+Elements - open tag + content + close tag
+
+Tag - <tag_name> </tag_name>
+
+open Tag - <tag_name>
+
+close Tag - </tag_name>
+
+content - data
+
+self - closing tag, void tag - <tag_name />
+
+
+Elements:
+
+Heading elements - h1 to h6
