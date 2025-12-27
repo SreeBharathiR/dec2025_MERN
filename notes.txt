@@ -37,3 +37,36 @@ self - closing tag, void tag - <tag_name />
 Elements:
 
 Heading elements - h1 to h6
+
+
+p,pre
+
+Formatting Elements:
+strong, bold, mark, italic
+
+block level - h1 t0 h6, p, pre & inline elements - strong, i, em, mark
+
+break element - just br that line and moves remaining in the next line
+
+comment lines - development or developer purpose
+
+img
+
+
+attributes - this gives the additional information about our element
+
+
+List - ordered list (ol) , unordered list(ul)
+
+li - list item
+
+
+Tables 
+
+<table></table> 
+<thead></thead>
+<tbody></tbody>
+<tfoot></tfoot>
+<tr></tr>
+<th></th>
+<td></td>
